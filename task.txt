@@ -1,0 +1,37 @@
+Assignment2
+
+1. codebase setup with CRA , bootstrap, react-router-dom , typescript , node-sass - 5min
+2. folder structure - 5mins
+	- components
+		a. single product card- 20min
+		a1. smallimagecardslider
+		b. product details image slider 
+		c. layout - 10min
+		d. sidebar - 20min
+		e. header - 10min
+		f. text
+		g. radio
+		h. checkbox
+		i. filter - 10min
+		
+	- routes - lazy
+ 	- utils
+	- constants
+        - pages
+
+task
+3. product listing page - 10mins
+4. listing single item card - 10mins
+5. product details page - 10mins
+
+Animations
+6. onhover product image show - 10min
+	a. add to cart btn
+	b. add to wishlist btn
+7. onclick add to cart - 10mins
+	- animation car movement in top header from left to right
+8. onhover product image - pkg 10min
+	a. show zoom in picture popup
+9. filters - 20mins	
+
+10. context API - 10mins
