@@ -1,17 +1,26 @@
 import React from "react";
+import { Container, Col, Row } from "react-bootstrap";
+import ListGroup from "react-bootstrap/ListGroup";
+
 import "./Sidebar.css";
 
 const Sidebar = () => {
   return (
-    <div className="container">
-      <div className=" col md-3">
-        <div className=" row g-3">
-          <div className="boxModel">
-            <h5 id="sidebar-title">FILTERS</h5>
-          </div>
-        </div>
-      </div>
-    </div>
+    <Container>
+      <Row>
+        <Col md={3}></Col>
+        <Col md={9}>
+          <ListGroup>
+            <ListGroup.Item>FILTERS</ListGroup.Item>
+            <ListGroup.Item>Categories</ListGroup.Item>
+
+            <ListGroup.Item>Morbi leo risus</ListGroup.Item>
+            <ListGroup.Item>Porta ac consectetur ac</ListGroup.Item>
+            <ListGroup.Item>Vestibulum at eros</ListGroup.Item>
+          </ListGroup>
+        </Col>
+      </Row>
+    </Container>
   );
 };
 
