@@ -1,14 +1,14 @@
 Assignment2
 
 1. codebase setup with CRA , bootstrap, react-router-dom , typescript , node-sass - 5min
-2. folder structure - 5mins
+2. folder structure - 5mins----done
 	- components
-		a. single product card- 20min
+		a. single product card- 20min-------done
 		a1. smallimagecardslider
 		b. product details image slider 
 		c. layout - 10min
 		d. sidebar - 20min
-		e. header - 10min
+		e. header - 10min------done
 		f. text
 		g. radio
 		h. checkbox
